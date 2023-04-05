@@ -7,7 +7,7 @@
     <groupId>cn.wode490390.nukkit</groupId>
     <artifactId>mspop</artifactId>
     <packaging>jar</packaging>
-    <version>1.0.0-IGN.1</version>
+    <version>1.0.0-IGN.2</version>
     <name>Mineshaft Populator</name>
     <description>This is a plugin that implements the mineshaft feature for Nukkit servers</description>
     <url>http://wode490390.cn/</url>
